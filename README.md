@@ -26,5 +26,3 @@ visit https://www.youtube.com/watch?v=dA7g4ELUOrw&t=5s
 ![alt Output8](https://raw.githubusercontent.com/roshansourav/Baaja/master/Screenshots/Screenshot%20from%202020-06-20%2011-45-50.png)
 
 ![alt Output9](https://raw.githubusercontent.com/roshansourav/Baaja/master/Screenshots/Screenshot%20from%202020-06-20%2011-45-58.png)
-
-![alt Output10](https://raw.githubusercontent.com/roshansourav/Baaja/master/Screenshots/Screenshot%20from%202020-06-20%2011-45-07.png)
